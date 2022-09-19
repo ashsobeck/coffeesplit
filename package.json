@@ -1,0 +1,25 @@
+{
+  "name": "coffeesplit",
+  "version": "1.0.0",
+  "description": "a discord bot to set up a group buy for a coffee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ashsobeck/coffeesplit.git"
+  },
+  "author": "Ashton Sobeck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashsobeck/coffeesplit/issues"
+  },
+  "homepage": "https://github.com/ashsobeck/coffeesplit#readme",
+  "dependencies": {
+    "discord.js": "^14.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.1"
+  }
+}
